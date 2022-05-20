@@ -1,3 +1,1 @@
-Hello learning git
-
-My wife is smoking hot
+This is a test instead
